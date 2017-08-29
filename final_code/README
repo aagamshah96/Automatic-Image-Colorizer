@@ -1,0 +1,9 @@
+As discussed earlier we will have these files in out code .
+
+The file get_features will be responsible for making superpixels, getting fft and putting it in a matrix which will be made global.
+
+THe train.m and test.m will have code from ridge code .
+
+Assumption:
+
+    The train image will be in ../data/train directory and testing images will be ../data/test directory
